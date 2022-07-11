@@ -67,21 +67,21 @@ just a note
 
 | Title             | link                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| [x] HTTP | [youtube](https://www.youtube.com/watch?v=92Rjzrq4oIg)|
+| HTTP | [youtube](https://www.youtube.com/watch?v=92Rjzrq4oIg)|
 | Networking Fundamental - Mengenal Cara Kerja DNS Secara Detail | [youtube](https://www.youtube.com/watch?v=nTJUtn3tlr8) |
 | Mengenai Domain Name System atau DNS | [Youtube](https://www.youtube.com/watch?v=EvvHoQs36eM) |
 | Apa Itu Hosting? Pengertian dan Jenis-jenisnya | [youtube](https://www.youtube.com/watch?v=KGBHNjigJ0o) |
 |DATABASE SCALING | [youtube](https://www.youtube.com/watch?v=wH5LZ6ALxpw)|
 |API GATEWAY| [youtube](https://www.youtube.com/watch?v=aZWbBcgS16s)|
 |AWS API Gateway Tutorial | [youtube](https://www.youtube.com/watch?v=qnVfWG8N7Fw)
-| [x] Albert Lombarte – From on-premises monolith to cloud microservices using a stateless API Gateway | [youtube](https://www.youtube.com/watch?v=eaZ5_Z4GchU)
+|Albert Lombarte – From on-premises monolith to cloud microservices using a stateless API Gateway | [youtube](https://www.youtube.com/watch?v=eaZ5_Z4GchU)
 |Membuat Amazon S3 Bucket|[youtube](https://www.youtube.com/watch?v=qV9-8V5YLE8)|
 
 
 ## buckets
 | Title             | link                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-|sealabs|[youtube](https://www.youtube.com/watch?v=0zg4Ls7WpxE)|
+|sealabs|[sea](https://career.sea.com/)|
 |||
 |||
 
