@@ -18,8 +18,8 @@ roadmap ini sifatnya sangat personal karena dibuat berdasarkan pengalaman pribad
     - dasar satatitika
     - library such as (sckit learn,tensorflow)
 
-- ### Lemah dalam bidang devops
-    - HTTP [x]
+- ### devops
+    - HTTP [*]
     - DNS
     - Hosting
     - web security
@@ -45,6 +45,9 @@ roadmap ini sifatnya sangat personal karena dibuat berdasarkan pengalaman pribad
 - menonton tutorial aws
 - implementasi nosql
 
+## fun projects
+ - mobile development
+
 
 ## python for machine learning data analisis Reference
 
@@ -54,6 +57,9 @@ roadmap ini sifatnya sangat personal karena dibuat berdasarkan pengalaman pribad
 | Spesialisasi Applied Data Science with Python | [cousera](https://www.coursera.org/specializations/data-science-python?utm_source=gg&utm_medium=sem&utm_campaign=29-AppliedDataSciencePython-ROW&utm_content=B2C&campaignid=13259947800&adgroupid=117959621010&device=c&keyword=online%20data%20science%20training&matchtype=b&network=g&devicemodel=&adpostion=&creativeid=524072187256&hide_mobile_promo&gclid=CjwKCAjw77WVBhBuEiwAJ-YoJNd_N2mzxTjnLxE2RdEjF_57z1NvD2F6NbXsldi8FKg_xQtKJywYsxoCa4cQAvD_BwE) |
 | Machine Learning With Python Full Course 2022 | [Youtube](https://www.youtube.com/watch?v=c8W7dRPdIPE) |
 | Soal Matematika Dasar | [quizizz](https://quizizz.com/admin/quiz/5c89e53768cd400020ba1385/soal-matematika-dasar) |
+|Sumber Belajar Data Sciences yang Mendalam!|[twitter](https://twitter.com/pacmannai/status/1538876286470623233)|
+|Simple Linear Regression dengan Scikit-Learn | [youtube](https://www.youtube.com/watch?v=lcjq7-2zMSA&t=134s)
+
 
 ## bidang devops Reference
 
@@ -66,11 +72,9 @@ roadmap ini sifatnya sangat personal karena dibuat berdasarkan pengalaman pribad
 |DATABASE SCALING | [youtube](https://www.youtube.com/watch?v=wH5LZ6ALxpw)|
 |API GATEWAY| [youtube](https://www.youtube.com/watch?v=aZWbBcgS16s)|
 |AWS API Gateway Tutorial | [youtube](https://www.youtube.com/watch?v=qnVfWG8N7Fw)
+|Albert Lombarte – From on-premises monolith to cloud microservices using a stateless API Gateway | [youtube](https://www.youtube.com/watch?v=eaZ5_Z4GchU)
 
 
-
-## Kesimpulan
-Perjuangan programer mirip seperti cerita avatar, avatar belajar berbagai element tanah,air dan api dengan konsisten walau banyak rintangan ia tidak pernah menyerah, <b>mesti dicontoh
 
 
 
