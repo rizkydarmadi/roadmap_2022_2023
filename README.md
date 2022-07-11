@@ -13,42 +13,42 @@ roadmap ini sifatnya sangat personal karena dibuat berdasarkan pengalaman pribad
 
 ## Roadmap
 
-- [] ### python for machine learning and data analisis
-    - [] dasar matenatika
-    - [] dasar satatitika
-    - [] library such as (sckit learn,tensorflow)
+- ### python for machine learning and data analisis
+    - [ ] dasar matenatika
+    - [ ] dasar satatitika
+    - [ ] library such as (sckit learn,tensorflow)
 
 
-- [] ### devops
+- ### devops
     - [x] HTTP 
-    - [] DNS
+    - [ ] DNS
     - [x] Hosting
-    - [] web security
-    - [] caching
-    - [] cloud computing
-    - [] search engines
-    - [] message brokers
-    - [] proxy server 
-    - [] graph ql
+    - [ ] web security
+    - [ ] caching
+    - [ ] cloud computing
+    - [ ] search engines
+    - [ ] message brokers
+    - [ ] proxy server 
+    - [ ] graph ql
 
-- [] ### Database
-    - [] Optimalisasi database
-    - [] pgsql
-    - [] No sql
+- ### Database
+    - [ ] Optimalisasi database
+    - [ ] pgsql
+    - [ ] No sql
 
-- [] ### Konsep OOP
-    - [] memantapkan konsep OOP
+- ### Konsep OOP
+    - [ ] memantapkan konsep OOP
 
 ## To do list
 
-- [] banyak latihan machine learning and data analisis
+- [ ] banyak latihan machine learning and data analisis
 - [x] membereskan registrasi aws 
 - [x] menonton tutorial aws 
-- [] implementasi nosql
-- [] mencari bucket baru
+- [ ] implementasi nosql
+- [ ] mencari bucket baru
 
 ## fun projects
- - [] FFNL development
+ - [ ] FFNL development
 
 
 ## python for machine learning data analisis Reference
