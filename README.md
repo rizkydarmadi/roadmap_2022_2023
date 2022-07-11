@@ -6,9 +6,9 @@
 I'm a backend developer...
 
 
-## Ini adalah catatan pribadi, dan roadmap untuk jalur belajar yang akan gue tentukan
+## Ini adalah catatan pribadi
 
-roadmap ini sifatnya sangat personal karena dibuat berdasarkan pengalaman pribadi dan sangat teknikal
+just a note
 
 
 ## Roadmap
@@ -48,7 +48,7 @@ roadmap ini sifatnya sangat personal karena dibuat berdasarkan pengalaman pribad
 - [ ] mencari bucket baru
 
 ## fun projects
- - [ ] FFNL development
+ - [x] FFNL development
 
 
 ## python for machine learning data analisis Reference
