@@ -67,14 +67,14 @@ just a note
 
 | Title             | link                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| HTTP | [youtube](https://www.youtube.com/watch?v=92Rjzrq4oIg)|
+| [x] HTTP | [youtube](https://www.youtube.com/watch?v=92Rjzrq4oIg)|
 | Networking Fundamental - Mengenal Cara Kerja DNS Secara Detail | [youtube](https://www.youtube.com/watch?v=nTJUtn3tlr8) |
 | Mengenai Domain Name System atau DNS | [Youtube](https://www.youtube.com/watch?v=EvvHoQs36eM) |
 | Apa Itu Hosting? Pengertian dan Jenis-jenisnya | [youtube](https://www.youtube.com/watch?v=KGBHNjigJ0o) |
 |DATABASE SCALING | [youtube](https://www.youtube.com/watch?v=wH5LZ6ALxpw)|
 |API GATEWAY| [youtube](https://www.youtube.com/watch?v=aZWbBcgS16s)|
 |AWS API Gateway Tutorial | [youtube](https://www.youtube.com/watch?v=qnVfWG8N7Fw)
-|Albert Lombarte – From on-premises monolith to cloud microservices using a stateless API Gateway | [youtube](https://www.youtube.com/watch?v=eaZ5_Z4GchU)
+| [x] Albert Lombarte – From on-premises monolith to cloud microservices using a stateless API Gateway | [youtube](https://www.youtube.com/watch?v=eaZ5_Z4GchU)
 |Membuat Amazon S3 Bucket|[youtube](https://www.youtube.com/watch?v=qV9-8V5YLE8)|
 
 
