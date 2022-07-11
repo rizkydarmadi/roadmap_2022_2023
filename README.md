@@ -18,8 +18,9 @@ roadmap ini sifatnya sangat personal karena dibuat berdasarkan pengalaman pribad
     - dasar satatitika
     - library such as (sckit learn,tensorflow)
 
+
 - ### devops
-    - HTTP [*]
+    - [x] HTTP 
     - DNS
     - Hosting
     - web security
@@ -27,7 +28,7 @@ roadmap ini sifatnya sangat personal karena dibuat berdasarkan pengalaman pribad
     - cloud computing
     - search engines
     - message brokers
-    - proxy server
+    - proxy server [x]
     - graph ql
 
 - ### Database
@@ -41,12 +42,13 @@ roadmap ini sifatnya sangat personal karena dibuat berdasarkan pengalaman pribad
 ## To do list
 
 - banyak latihan machine learning and data analisis
-- membereskan registrasi aws
-- menonton tutorial aws
+- membereskan registrasi aws [x]
+- menonton tutorial aws [x]
 - implementasi nosql
+- mencari bucket baru
 
 ## fun projects
- - mobile development
+ - FFNL development
 
 
 ## python for machine learning data analisis Reference
@@ -73,9 +75,15 @@ roadmap ini sifatnya sangat personal karena dibuat berdasarkan pengalaman pribad
 |API GATEWAY| [youtube](https://www.youtube.com/watch?v=aZWbBcgS16s)|
 |AWS API Gateway Tutorial | [youtube](https://www.youtube.com/watch?v=qnVfWG8N7Fw)
 |Albert Lombarte – From on-premises monolith to cloud microservices using a stateless API Gateway | [youtube](https://www.youtube.com/watch?v=eaZ5_Z4GchU)
+|Membuat Amazon S3 Bucket|[youtube](https://www.youtube.com/watch?v=qV9-8V5YLE8)|
 
 
-
+## buckets
+| Title             | link                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+|sealabs|[youtube](https://www.youtube.com/watch?v=0zg4Ls7WpxE)|
+|||
+|||
 
 
 ## Authors
